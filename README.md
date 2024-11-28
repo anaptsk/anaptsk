@@ -1,9 +1,9 @@
 ## Hello there! 👾</h1>
-### I'm Ana, a Berlin-based full-stack web developer with a background in performance marketing, and a passion for social entrepreneurship!💚 I'm always up for new opportunities and coding buddies.
-- 🟢 Available for hire/collab
-- 👩🏻‍💻 Improving my skills by coding a music discovery app EchoEcho
+### I'm Ana, a Berlin-based full-stack web developer and performance marketrt, and a passion for social entrepreneurship! 💚 I'm always up for new opportunities and coding buddies.
+- 🟢 Available for collab
+- 👩🏻‍💻 Improving my skills by coding MVPs of my ideas
 - 🌱 Learning Typescript and React Native, more skills in line
-- 🐶 Puppies and a subreddit r/Eyebleach make my day
+- 🐶 Dog content makes my day
 
 
 
