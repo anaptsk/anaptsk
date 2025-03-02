@@ -1,5 +1,5 @@
 ## Hello there! 👾</h1>
-### I'm Ana, a Berlin-based full-stack web developer and performance marketer with a passion for social entrepreneurship! 💚 I'm always up for new opportunities and coding buddies.
+### I'm Ana, a Berlin-based junior full-stack web developer and performance marketer with a passion for social entrepreneurship! 💚 I'm always up for new opportunities and coding buddies.
 - 🟢 Available for collab
 - 👩🏻‍💻 Improving my skills by coding MVPs of my ideas
 - 🌱 Learning Typescript and React Native, more skills in line
